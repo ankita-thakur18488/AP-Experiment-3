@@ -1,5 +1,7 @@
-# AP-Experiment-3
+# AP-Experiment-3 (LINKED LIST)
+
 ## Step for solving the problem
+
 1. Understand the Problem 
 
 2. Divide the Problem into subpart 
@@ -22,6 +24,7 @@ A Linked List is a linear data structure where elements (nodes) are stored in me
           Pointer (Next) → Stores the address of the next node. 
 
 Unlike arrays, linked lists allow dynamic memory allocation and efficient insertions & deletions without requiring shifting. 
+
 ![image](https://github.com/user-attachments/assets/d24f309b-4342-426c-9790-bf001c9373e0)
 
 ## Types of Linked Lists 
@@ -31,4 +34,5 @@ Unlike arrays, linked lists allow dynamic memory allocation and efficient insert
 2. Doubly Linked List → Each node has pointers to both next and previous nodes. 
 
 3. Circular Linked List → The last node connects back to the first node.
+   
    ![image](https://github.com/user-attachments/assets/f82337f5-b1f9-453d-aeda-74ba29ba94c4)

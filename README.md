@@ -14,7 +14,7 @@
 
 6. Pseudocode and Dry Run: Plan the solution and test with sample inputs. 
 
-Evaluate Complexity: Use Big O notation to assess time and space complexity
+7. Evaluate Complexity: Use Big O notation to assess time and space complexity
 
 ## Linked List 
 A Linked List is a linear data structure where elements (nodes) are stored in memory non-contiguously. Each node consists of two parts: 

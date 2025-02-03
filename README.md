@@ -1,21 +1,5 @@
 # AP-Experiment-3 (LINKED LIST)
 
-## Step for solving the problem
-
-1. Understand the Problem 
-
-2. Divide the Problem into subpart 
-
-3. Identify Input, Logic, and Output: Focus on what data is given, the logic needed, and the expected results. 
-
-4. Approach to Solve: Find the most efficient solution. 
-
-5. Time Efficiency: Focus on solutions with less computational time. 
-
-6. Pseudocode and Dry Run: Plan the solution and test with sample inputs. 
-
-7. Evaluate Complexity: Use Big O notation to assess time and space complexity
-
 ## Linked List 
 A Linked List is a linear data structure where elements (nodes) are stored in memory non-contiguously. Each node consists of two parts: 
 
